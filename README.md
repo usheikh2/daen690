@@ -11,7 +11,7 @@ ___
 
 ### Project Introduction
 
-_Bob's Builders will utilize Computer Vision technology to monitor construction equipment for safety and performance. Specifically, our team will apply object detection framework(s) to generate data on moving and non-moving construction equipment. We will then use Machine Learning to perform time-motion and productivity analyses. This build will ensure that workers are keeping themselves at safe distances from the heavy equipment and that the productivity of the equipment over time is relative to the captial of the service._.
+_Bob's Builders will utilize Computer Vision technology to monitor construction equipment for safety and performance. Specifically, our team will apply object detection framework(s) to generate data on moving and non-moving construction equipment. We will then use Machine Learning to perform time-motion and productivity analyses. This build will ensure that workers are keeping themselves at safe distances from the heavy equipment and that the productivity of the equipment over time is relative to the capital of the service._
 
 
 ### Collaborators and Roles
